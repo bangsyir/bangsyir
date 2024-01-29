@@ -10,4 +10,4 @@ Here are some ideas to get you started: -->
  🤖 Current status: Indie Maker 💻 <br>
  ⚡ You never know if you never try.
 
-<img src="https://github-readme-stats.vercel.app/api?username=bangsyir&show_icons=true&theme=merko" alt="bangsyir github stats" align="center"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangsyir&&hide=php,blade,ejs,vue&layout=compact&theme=merko" align="center"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=bangsyir&show_icons=true&theme=merko" alt="bangsyir github stats" align="center"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangsyir&&hide=php,blade,ejs,vue&layout=compact&theme=merko" align="center"/>
