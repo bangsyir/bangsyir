@@ -22,6 +22,7 @@ Here are some ideas to get you started: -->
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-FF6B00?logo=hono&logoColor=white)
+![Express](https://img.shields.io/badge/Express-FFF?logo=express&logoColor=black)
 ![Bun](https://img.shields.io/badge/Bun-FBF0DF?logo=bun&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Remix](https://img.shields.io/badge/Remix-FFF?logo=remix&logoColor=black)
