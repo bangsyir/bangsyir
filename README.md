@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started: -->
  
-📫 Reach me: [Twitter](https://x.com/booosyir), [Facebook](https://facebook.com/abcdefghijklmnopkrstuvwxyz1234567890/), [Instagram](https://instagram.com/teahaliasuam) or [LinkedIn](https://www.linkedin.com/in/syirra-fitrah-763672193/) <br>
+📫 Reach me: [Twitter](https://x.com/booosyir), [Facebook](https://facebook.com/abcdefghijklmnopkrstuvwxyz1234567890/), [Instagram](https://instagram.com/teahaliasuam), [Email](mailto:bangsyir@gmail.com) or [LinkedIn](https://www.linkedin.com/in/syirra-fitrah-763672193/) <br>
 🤖 Current status: Indie Maker 💻 <br>
 🔭 Currently building: [Project Name + Link] <br> 
 🌱 Learning: GO <br>
