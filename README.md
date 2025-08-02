@@ -8,7 +8,7 @@ Here are some ideas to get you started: -->
  
 📫 Reach me: [Twitter](https://x.com/booosyir), [Facebook](https://facebook.com/abcdefghijklmnopkrstuvwxyz1234567890/), [Instagram](https://instagram.com/teahaliasuam), [Email](mailto:bangsyir@gmail.com) or [LinkedIn](https://www.linkedin.com/in/syirra-fitrah-763672193/) <br>
 🤖 Current status: Indie Maker 💻 <br>
-🔭 Currently building: [Project Name + Link] <br> 
+🔭 Currently building: Chat Apps for code challenge<br> 
 🌱 Learning: GO <br>
 💬 Ask me about: Javascript/Go<br>
 ⚡ You never know if you never try.
