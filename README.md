@@ -1,4 +1,4 @@
- # Hello World! 👋 I'm [Bangsyir](https://bangsyir.pages.dev) 👋
+ # Hello World! 👋 I'm [Bashir](https://bangsyir.pages.dev) 👋
 **Full-stack developer crafting robust web applications**
 
 <!--
